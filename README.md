@@ -8,5 +8,5 @@
 
 <h2 align="center">Requirements : Arduino , Arduino IDE , modules ,Components etc </h2>
 
-<h2 align="center">Star it if you like<h2/>
+<h2 align="center">Star it if you like ⭐ <h2/>
 
