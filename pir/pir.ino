@@ -1,38 +1,23 @@
-int led = 13;  
-//int fan=12;              
-int sensor = 2;              
-int state = LOW;             
-int val = 0;                 
+int pirSensor = 3;
 
 void setup() {
-  pinMode(led, OUTPUT);
- // pinMode(fan,OUTPUT);      
-  pinMode(sensor, INPUT); 
-   Serial.begin(9600);  
+  pinMode(pirSensor, INPUT);
+  pinMode(13, OUTPUT); 
+  Serial.begin(9600); 
 }
 
-void loop(){
-  val = digitalRead(sensor); 
-  if (val == HIGH) {  
-           
-    digitalWrite(led, HIGH); 
-   // digitalWrite(fan,HIGH);  
-    delay(2000);                
-    
-    
-    /*if (state == LOW) {
-      Serial.println("Motion detected!"); 
-      state = HIGH;       
-    }*/
-  } 
-  else {
-      digitalWrite(led, LOW);
-     // digitalWrite(fan,LOW);
-      delay(2000);           
+void loop() {
+  int sensorValue = digitalRead(pirSensor);
+
+  if (sensorValue == 1) {
+    digitalWrite(13,HIGH);
+     Serial.write("Detected\n");
   }
-   Serial.println(val);
-     /* if (state == HIGH){
-        Serial.println("Motion stopped!");
-        state = LOW;  }  */   
-  
+  else
+  {
+    digitalWrite(13,LOW);
+         Serial.write("Not Detected\n");
+
+  }
+  delay(2000);
 }
