@@ -25,7 +25,7 @@ void setup()
 void loop()
 {
   // measure the ping time in cm
-  cm = 0.01723 * readUltrasonicDistance(7, 7);
+  cm = 0.01723 * readUltrasonicDistance(6, 7);
   // convert to inches by dividing by 2.54
   inches = (cm / 2.54);
   Serial.print(inches);
