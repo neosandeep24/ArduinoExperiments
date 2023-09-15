@@ -1,3 +1,6 @@
+//You will need a Max7219 library
+//In Arduino IDE go to Tools -> Manage Libraries -> Search Max7219 and install it
+
 int ANIMDELAY = 100;  
 int INTENSITYMIN = 0; 
 int INTENSITYMAX = 8; 
