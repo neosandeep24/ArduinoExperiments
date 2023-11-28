@@ -8,8 +8,8 @@ Servo myservo;  // create servo object to control a servo
 static const int servoPin = D1;
 
 // Replace with your network credentials
-const char* ssid     = "Moonknigth";
-const char* password = "zombie12";
+const char* ssid     = "your Wifi name";
+const char* password = "your Wifi password";
 
 // Set web server port number to 80
 WiFiServer server(80);
