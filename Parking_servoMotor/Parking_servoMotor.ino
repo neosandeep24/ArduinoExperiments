@@ -27,7 +27,7 @@ void setup() {
 }
 
 void loop() {
-   cm = 0.01723 * readUltrasonicDistance(7, 6);
+   cm = 0.01723 * readUltrasonicDistance(6, 7);
 
   if(cm<30){
   Serial.print(cm);
