@@ -32,7 +32,7 @@ Servo motor
 
 ## Circuit diagram :-
 
-![Screenshot (221)](https://github.com/neosandeep24/ArduinoExperiments/assets/103883917/639abb23-fd7a-4601-b531-aeffa921d84c)
+![Screenshot (261)](https://github.com/neosandeep24/ArduinoExperiments/assets/103883917/c73c964d-4498-49f8-93dd-5aa18014e5b6)
 
 
 Arduino project
