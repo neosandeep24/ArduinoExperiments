@@ -6,8 +6,8 @@
   <a href="https://www.youtube.com/@theneostudios" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-The%20Neo%20Studios-red?style=for-the-badge&logo=youtube" alt="YouTube">
   </a>
-  <a href="https://github.com/SandeepNidamanuri" target="_blank">
-    <img src="https://img.shields.io/github/followers/SandeepNidamanuri?style=for-the-badge" alt="GitHub Followers">
+  <a href="https://github.com/neosandeep24" target="_blank">
+    <img src="https://img.shields.io/github/followers/neosandeep24?style=for-the-badge" alt="GitHub Followers">
   </a>
 </p>
 
