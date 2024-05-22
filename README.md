@@ -35,6 +35,6 @@ If you find these projects helpful, please give this repository a star ⭐ to sh
 
 <p align="center">
   <a href="https://github.com/SandeepNidamanuri/arduino-experiments" target="_blank">
-    <img src="https://img.shields.io/github/stars/SandeepNidamanuri/ArduinoExperiments?style=social" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/neosandeep24/ArduinoExperiments?style=social" alt="GitHub Stars">
   </a>
 </p>
