@@ -2,6 +2,8 @@
 
 <h1 align="center">Hello everyone, I'm Sandeep Nidamanuri</h1>
 
+<h3 align="center">Check out my youtube channel for more experiments<a href="www.youtube.com/@theneostudios"> The Neo Studios </a> </h3>
+
 <h3 align="center">I post source codes related to arduino projects 🧑‍💻 that I've developed</h3>
 
 ![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
