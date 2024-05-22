@@ -34,7 +34,7 @@ To get started with these projects, you'll need:
 If you find these projects helpful, please give this repository a star ⭐ to show your support and help others find it!
 
 <p align="center">
-  <a href="https://github.com/SandeepNidamanuri/arduino-experiments" target="_blank">
+  <a href="https://github.com/neosandeep24/ArduinoExperiments" target="_blank">
     <img src="https://img.shields.io/github/stars/neosandeep24/ArduinoExperiments?style=social" alt="GitHub Stars">
   </a>
 </p>
