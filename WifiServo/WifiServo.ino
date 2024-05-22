@@ -1,4 +1,4 @@
-#include <WiFi.h>
+#include <ESP8266WiFi.h>
 #include <Servo.h>
 
 Servo myservo;  // create servo object to control a servo
@@ -8,8 +8,8 @@ Servo myservo;  // create servo object to control a servo
 static const int servoPin = D1;
 
 // Replace with your network credentials
-const char* ssid     = "your Wifi name";
-const char* password = "your Wifi password";
+char* ssid     = "Your Wifi Name";
+char* password = "Your wifi password";
 
 // Set web server port number to 80
 WiFiServer server(80);
@@ -33,7 +33,7 @@ void setup() {
   Serial.begin(115200);
 
   myservo.attach(servoPin);  // attaches the servo on the servoPin to the servo object
-
+  myservo.write(0);
   // Connect to Wi-Fi network with SSID and password
   Serial.print("Connecting to ");
   Serial.println(ssid);
