@@ -20,7 +20,7 @@ IR sensor one  ----  Nodemcu
 
       out pin      --- digital pin D1
       
-      Vcc          --- 5v 
+      Vcc          --- 3v 
       
       Gnd          --- Gnd
 
@@ -28,7 +28,7 @@ IR sensor two  ----  Nodemcu
 
       out pin      --- digital pin D2
       
-      Vcc          --- 5v 
+      Vcc          --- 3v 
       
       Gnd          --- Gnd
 
@@ -36,7 +36,7 @@ Servo motor
 
     control signal  of servo motor (ORANGE)  -----   Digital pin D5 of Nodemcu
     
-    vcc of servo motor (RED)                 -----   3v3 of Nodemcu 
+    vcc of servo motor (RED)                 -----   3v of Nodemcu 
     
     GND of servo motor (BLACK)               -----   GND of Nodemcu
 
