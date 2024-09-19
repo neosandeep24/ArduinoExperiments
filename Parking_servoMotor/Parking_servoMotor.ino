@@ -43,6 +43,6 @@ void loop() {
     myservo.write(pos);
     delay(15);                                     
   }
-  delay(15); 
+  delay(5000); //add delay how much you want
   }                          
 }
