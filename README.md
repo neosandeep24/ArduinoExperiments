@@ -1,6 +1,6 @@
 # Arduino Experiments 🚀
 
-<h1 align="center">Hello everyone, I'm Sandeep Nidamanuri</h1>
+<h1 align="center">Hello everyone</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/@theneostudios" target="_blank">
