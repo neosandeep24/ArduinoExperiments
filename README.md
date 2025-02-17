@@ -3,12 +3,12 @@
 <h1 align="center">Hello everyone</h1>
 
 <p align="center">
-  <a href="https://www.youtube.com/@theneostudios" target="_blank">
+  <a href="https://www.youtube.com/@theneostudios" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-The%20Neo%20Studios-red?style=for-the-badge&logo=youtube" alt="YouTube">
-  </a>
-  <a href="https://github.com/neosandeep24" target="_blank">
+</a>
+<!--   <a href="https://github.com/neosandeep24" target="_blank">
     <img src="https://img.shields.io/github/followers/neosandeep24?style=for-the-badge" alt="GitHub Followers">
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
