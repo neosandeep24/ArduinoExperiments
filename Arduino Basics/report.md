@@ -22,7 +22,7 @@ This repository is a companion to the video series and contains:
 
 | Episode | Topic                        | Watch on YouTube                          | Source Code |
 |---------|-----------------------------|-------------------------------------------|-------------|
-| 1️⃣      | Arduino Blink (Hello World)  | [Watch Now](https://youtu.be/your-link1)  | [blink.ino](code/episode1_blink/blink.ino) |
+| 1️⃣      | Arduino Blink (Hello World)  | [Watch Now](https://youtu.be/your-link1)  | [blink.ino](https://github.com/neosandeep24/ArduinoExperiments/tree/main/Arduino%20Basics/Episode01_Arduino_testing) |
 | ...     | More Coming Soon!            | Stay tuned & subscribe!                  | Coming soon |
 
 > 🆕 More episodes added weekly – Don’t forget to ⭐ star the repo if you're learning something new!
