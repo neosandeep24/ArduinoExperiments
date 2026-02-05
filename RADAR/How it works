@@ -1,0 +1,4 @@
+Install processing 4.2 ide in your laptop .
+Run the .pde file in processing ide 4.2.
+Run the .ino file in the arduino ide.
+They will communicate through the com port and get the obstacle graphics in the processing ide.
