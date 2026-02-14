@@ -1,0 +1,7 @@
+Note : Each Sensor is different you have to calibrate for your own sensor
+How ? First read the analog values(In arduino ide in the top right corner there is a search icon clicking that will give analog values) then write action based on that 
+For example when i bend the flex sensor the analog value changed to > 850 so I added an action to it like light a bulb
+If any code is not working please feel free to change it based on your need
+ALL THE CODES ARE AVAILABLE IN ORDER IN THE SAME FILE ITSELF 1)BULB 2)Display 3)Bulb with Display 4)Bulbs with Display 
+
+Please subscribe to https://www.youtube.com/@theneostudios/
