@@ -5,6 +5,10 @@
 #define VRX_PIN  A0 // Arduino pin connected to VRX pin
 #define VRY_PIN  A1 // Arduino pin connected to VRY pin
 
+// Pin definitions for Display LCD i2c
+// SDA -> A4
+// SCL -> A5
+
 // Variables to store joystick values
 int xValue = 0; // To store value of the X axis
 int yValue = 0; // To store value of the Y axis
